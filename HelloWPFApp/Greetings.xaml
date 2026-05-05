@@ -9,6 +9,8 @@
     <Grid x:Name="No_Name">
         <TextBlock HorizontalAlignment="Left" Margin="115,25,0,0" TextWrapping="Wrap" Text="Select a message option and then choose the Display button." 
                    VerticalAlignment="Top" Height="192" Width="587"/>
+        <RadioButton x:Name="radioButton1" Content="RadioButton" HorizontalAlignment="Left" Margin="256,222,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton2" Content="RadioButton" HorizontalAlignment="Left" Margin="466,222,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
