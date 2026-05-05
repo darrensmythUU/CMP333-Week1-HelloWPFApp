@@ -11,7 +11,7 @@
                    VerticalAlignment="Top" Height="192" Width="332"/>
         <RadioButton x:Name="radioButton1" Content="Hello" HorizontalAlignment="Left" Margin="273,222,0,0" VerticalAlignment="Top"/>
         <RadioButton x:Name="radioButton2" Content="Goodbye" HorizontalAlignment="Left" Margin="466,222,0,0" VerticalAlignment="Top"/>
-        <Button Content="Display" HorizontalAlignment="Center" Margin="0,268,0,0" VerticalAlignment="Top"/>
+        <Button Content="Display" HorizontalAlignment="Center" Margin="0,268,0,0" VerticalAlignment="Top" Click="Button_Click"/>
 
     </Grid>
 </Window>
