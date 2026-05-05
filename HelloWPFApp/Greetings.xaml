@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="Greetings" Height="450" Width="800">
     <Grid x:Name="No_Name">
-        
+        <TextBlock HorizontalAlignment="Left" Margin="115,25,0,0" TextWrapping="Wrap" Text="Select a message option and then choose the Display button." 
+                   VerticalAlignment="Top" Height="192" Width="587"/>
+
     </Grid>
 </Window>
